@@ -1,0 +1,8 @@
+{
+  "target_industries": ["SaaS", "Logistics", "Healthcare", "FinTech"],
+  "revenue_min": 5000000,
+  "revenue_max": null,
+  "excluded_titles": ["Intern", "Student", "Consultant", "Assistant"],
+  "deal_breaker_keywords": ["student", "freelance", "personal project"],
+  "ideal_titles": ["Director", "VP", "C-Level", "Head of", "Founder"]
+}
